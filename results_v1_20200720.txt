@@ -1,0 +1,10 @@
+Analyzing data/kg_ms_malware/std_cross_scores/sdhash_std_scores_1.txt (is_similarity=true)
+10868 3529 32.471475892528524
+Analyzing data/kg_ms_malware/std_cross_scores/sdhash_std_scores_2.txt (is_similarity=true)
+10868 3529 32.471475892528524
+Analyzing data/kg_ms_malware/std_cross_scores/ssdeep_std_scores.txt (is_similarity=true)
+10868 4898 45.06808980493191
+Analyzing data/kg_ms_malware/std_cross_scores/mrsh2_std_scores.txt (is_similarity=true)
+10868 8320 76.55502392344498
+Analyzing data/kg_ms_malware/std_cross_scores/tlsh_std_scores.txt (is_similarity=false)
+10860 10387 95.64456721915285
